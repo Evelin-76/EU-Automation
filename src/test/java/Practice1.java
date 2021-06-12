@@ -6,9 +6,9 @@ public class Practice1 {
 
         System.out.println("Work 1");
 
-        // successfully pushe projece to Github
-        //IntelliJ automatically create remot repo
-        //created connection betwee locar repo and remot repo
-        //pussehd locar comints to remot reop
+        // successfully push project to Github
+        //IntelliJ automatically created remote repo
+        //created connection between local repo and remote repo
+        //pushed local commits to remote repo
     }
 }
